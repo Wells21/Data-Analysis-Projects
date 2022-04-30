@@ -1,2 +1,3 @@
 # Data-Analysis-Projects
-Analyzing Data for the Growth of Organizations, making impact to the world at large.
+This projects makes use of exploratory analysis, visualization using seaborn and matplotlib, 
+
